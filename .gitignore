@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+decisions.log.jsonl
+.venv/
+.DS_Store
